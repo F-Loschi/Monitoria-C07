@@ -14,7 +14,7 @@ Toda a teoria da disciplina está consolidada em uma apostila feita pelo outro m
 - **`Aula 04/`** — Comandos básicos (DML), com a atividade "O Papiro Desaparecido" e seu gabarito.
 - **`Aula 05/`** — Modelagem de dados, com o projeto de exemplo RunTracker e gabarito.
 - **`Aula 06/`** — Comandos DCL.
-- **`AV1/`, `AV1-Felipe/`** — Material da Avaliação 1: enunciado, gabarito e provas dos alunos corrigidas.
+- **`AV1/`** — Material da Avaliação 1: enunciado, gabarito e provas dos alunos corrigidas.
 - **`Base/`** — Arquivos de apoio usados na montagem das avaliações.
 - **`Hacktown/`** — Atividade de reposição.
 
